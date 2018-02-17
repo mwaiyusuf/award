@@ -1,0 +1,290 @@
+html,
+body,
+body{
+    background: white;
+}
+#css{
+    text-align: left;
+    font-size: 15px
+}
+#awards{
+    text-align: center;
+    font-size: 60px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#lzd{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 440px;
+    margin-right: 290px;
+}
+#twenty{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 150px;
+}
+#solo{
+    background: url("/img/beatriz-perez-moya-513499.jpg")no-repeat center center
+        fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    height: 70vh;
+    width: 100vh;
+    margin-left: 130px;
+}
+#olo{
+    font-size: 40px;
+    color: black;
+    margin-top: 160px;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-bottom: 8px;
+}
+#yoow{
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+#woow{
+    margin-left: 50px;
+    margin-right: 200px;
+    
+}
+#later{
+    color: black;
+    font-size: 16px;
+    text-align: center;
+}
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {#css{
+    text-align: left;
+    font-size: 15px
+}
+#awards{
+    text-align: center;
+    font-size: 60px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#lzd{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 440px;
+    margin-right: 290px;
+}
+#twenty{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 150px;
+}
+#solo{
+    background: url("/img/beatriz-perez-moya-513499.jpg")no-repeat center center
+        fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    height: 70vh;
+    width: 100vh;
+    margin-left: 130px;
+}
+#olo{
+    font-size: 40px;
+    color: black;
+    margin-top: 160px;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-bottom: 8px;
+}
+#yoow{
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+#woow{
+    margin-left: 50px;
+    margin-right: 200px;
+    
+}
+#later{
+    color: black;
+    font-size: 16px;
+    text-align: center;
+} }
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { #css{
+    text-align: left;
+    font-size: 15px
+}
+#awards{
+    text-align: center;
+    font-size: 60px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#lzd{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 440px;
+    margin-right: 290px;
+}
+#twenty{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 150px;
+}
+#solo{
+    background: url("/img/beatriz-perez-moya-513499.jpg")no-repeat center center
+        fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    height: 70vh;
+    width: 100vh;
+    margin-left: 130px;
+}
+#olo{
+    font-size: 40px;
+    color: black;
+    margin-top: 160px;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-bottom: 8px;
+}
+#yoow{
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+#woow{
+    margin-left: 50px;
+    margin-right: 200px;
+    
+}
+#later{
+    color: black;
+    font-size: 16px;
+    text-align: center;
+} }
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) { #css{
+    text-align: left;
+    font-size: 15px
+}
+#awards{
+    text-align: center;
+    font-size: 60px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#lzd{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 440px;
+    margin-right: 290px;
+}
+#twenty{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 150px;
+}
+#solo{
+    background: url("/img/beatriz-perez-moya-513499.jpg")no-repeat center center
+        fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    height: 70vh;
+    width: 100vh;
+    margin-left: 130px;
+}
+#olo{
+    font-size: 40px;
+    color: black;
+    margin-top: 160px;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-bottom: 8px;
+}
+#yoow{
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+#woow{
+    margin-left: 50px;
+    margin-right: 200px;
+    
+}
+#later{
+    color: black;
+    font-size: 16px;
+    text-align: center;
+}}
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { #css{
+    text-align: left;
+    font-size: 15px
+}
+#awards{
+    text-align: center;
+    font-size: 60px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#lzd{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 440px;
+    margin-right: 290px;
+}
+#twenty{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 150px;
+}
+#solo{
+    background: url("/img/beatriz-perez-moya-513499.jpg")no-repeat center center
+        fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    height: 70vh;
+    width: 100vh;
+    margin-left: 130px;
+}
+#olo{
+    font-size: 40px;
+    color: black;
+    margin-top: 160px;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-bottom: 8px;
+}
+#yoow{
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+#woow{
+    margin-left: 50px;
+    margin-right: 200px;
+    
+}
+#later{
+    color: black;
+    font-size: 16px;
+    text-align: center;
+} }
+
+// Extra large devices (large desktops)
+// No media query since the extra-large breakpoint has no upper bound on its width
