@@ -42,8 +42,8 @@
 // return a + b;
 //}
 //NotWorkingFunction(20); 
-let name="Mohammed"
-let x=44;
-let y=22;
-console.log(`${name} you have earn ${2 * (x + y)} dolars`);
-console.log(name.includes("o"));
+//let name="Mohammed"
+//let x=44;
+//let y=22;
+//console.log(`${name} you have earn ${2 * (x + y)} dolars`);
+//console.log(name.includes("o"));
